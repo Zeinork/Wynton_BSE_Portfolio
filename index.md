@@ -32,21 +32,20 @@ For your final milestone, explain the outcome of your project. Key details to in
 
 # Milestone, 2
 
-**Second Milestone video Recorded**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/mivj2erSktc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/y3VAmNlER5Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your second milestone, explain what you've worked on since your previous milestone. You can highlight:
-- Technical details of what you've accomplished and how they contribute to the final goal
-- What has been surprising about the project so far
-- Previous challenges you faced that you overcame
-- What needs to be completed before your final milestone 
+Hello everyone! This is my second milestone and this is what I've done since
+-Programming
+  -Testing: Arducam works and is able to track red objects
+-Vehicle
+  -Chasis: 3 additional ultrasonic sensors were mounted and connected
+  -Power supply: USB-C power bank was mounted onto the robot in order to serve as a redundant and secondary power supply
+-Planned: In order to reach the final milestone, the aversion logic structure needs to be added and applied. Robot's color recognition needs to be switched to yellow.
+-Overview: I've been pleasantly surprised by my project so far, from immersing myself in Python operators to constructing the chassis myself, I've learned a lot about keeping things in a tide manner as to avoid electrical and mechanical issues.
 
 # Milestone, 1
 
-**First Milestone video recorded**
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/CaCazFBhYKs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/J_ZyX7TFdRQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 Hello everyone! This is my first milestone and this is what I've done so far:
 -Programming
