@@ -2,12 +2,6 @@
 
 The device outlined below is essentially a rover that is directed with an object of color, it will autonomously search its immediate surroundings to a directed color and then move away from it. Its primary directed function is aversion, in addition to recognizing a certain color and backing away, the machine also reacts to proximity stimuli by pinpointing the trigger site and responding accordingly. Along the process of creation, I was able to learn a lot about small-scale prototype electronics. With the utility of the Raspberry pi, it was quite easy to jumpstart what was an empty chassis to a moving rover. The biggest difficulty, which was overcome by the example of one of my BSE peers, was bridging the gap between using the camera to recognize colors and creating outputs that then could be used to direct the machine's movements.
 
-You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
-```HTML 
-<!--- This is an HTML comment in Markdown -->
-<!--- Anything between these symbols will not render on the published site -->
-```
-
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | Wynton Z | Eaglecrest HS | Aerospace Engineering | Incoming Senior
@@ -366,7 +360,7 @@ GPIO.cleanup() #free all the GPIO pins
 |:--:|:--:|:--:|:--:|
 | Raspberry Pi | Onboard computer, the "brains" of the robot | 35$ | <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"> Link </a> |
 | LS9110 Dual-Channel Motor Controller | Speed and directional wheel director | 1$ | <a href="https://www.elecrow.com/l9110-dualchannel-hbridge-motor-driver-module-12v-800ma-p-826.html"> Link </a> |
-| HC-SR04 Ultrasonic Sensors | Proximity localization |  | <a href="https://www.amazon.com/HiLetgo-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B00E87VXH0/ref=sr_1_6?keywords=hc-sr04&s=industrial&sr=1-6"> Link </a> |
+| HC-SR04 Ultrasonic Sensors | Proximity localization | 10$ | <a href="https://www.amazon.com/HiLetgo-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B00E87VXH0/ref=sr_1_6?keywords=hc-sr04&s=industrial&sr=1-6"> Link </a> |
 | Assorted Jumper Wires | Power supply management and overall connections | 7$ | <a href="https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?keywords=jumper+wires&s=industrial&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
 | Raspberry Pi camera | Image recognition | 10$ | <a href="https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_3?keywords=raspberry+pi+camera&sr=8-3"> Link </a> |
 | Breadboards | Used in conjunction with jumper wires, breadboards are used to streamline power supplication and connections | $10 | <a href="https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_5?keywords=breadboards&sr=8-5"> Link </a> |
