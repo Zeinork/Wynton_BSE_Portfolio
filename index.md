@@ -1,6 +1,6 @@
 # BSE Human-Directed Rolling Machine
 
-The device outlined below is essentially a rover that is directed with an object of color, it will autonomously search its immediate surroundings to a directed color and then move away from it. Its primary directed function is aversion, in addition to recognizing a certain color and backing away, the machine also reacts to proximity stimuli by pinpointing the trigger site and responding accordingly. Along the process of creation, I was able to learn a lot about small-scale prototype electronics. With the utility of the Raspberry pi, it was quite easy to jumpstart what was an empty chassis to a moving rover. The biggest difficulty, which was overcome by the example of one of my BSE peers, was bridging the gap between using the camera to recognize colors and creating outputs that then could be used to direct the machine's movements.
+The device outlined below is essentially a rover that is directed with an object of color, it will autonomously search its immediate surroundings to a directed color and then move away from it. Its primary directed function is aversion, in addition to recognizing a certain color and backing away, the machine also reacts to color stimuli by pinpointing the trigger site and responding accordingly. Along the process of creation, I was able to learn a lot about small-scale prototype electronics. With the utility of the Raspberry pi, it was quite easy to jumpstart what was an empty chassis to a moving rover. The biggest difficulty, which was overcome by the example of one of my BSE peers, was bridging the gap between using the camera to recognize colors and creating outputs that then could be used to direct the machine's movements.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
@@ -12,17 +12,9 @@ The device outlined below is essentially a rover that is directed with an object
   
 # Milestone, Final
 
-**Don't forget to replace the text below with the embedding for your milestone video. Go to Youtube, click Share -> Embed, and copy and paste the code to replace what's below.**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/vanUqOjm1lM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/F7M7imOVGug" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-
-For your final milestone, explain the outcome of your project. Key details to include are:
-- What you've accomplished since your previous milestone
-- What your biggest challenges and triumphs were at BSE
-- A summary of key topics you learned about
-- What you hope to learn in the future after everything you've learned at BSE
-
-
+This is it, my final milestone! From my secondary milestone, the aversion algorithm was implemented, and the external directive was added. My biggest challenge during my tenure at BSE would have to be learning effectively how to utilize Python tools in order to direct a robot. This project was also the first time that I worked on Raspberry Pi! It was exhilarating watching the Raspberry Pi OS boot up on one of my spare monitors. Throughout making Dingo (the machine), I applied my skills learned at my school's FIRST robotics team and created (in my eyes) a good prototype for my passion project. Topic-wise, I gained the basics of electrical engineering through soldering and working with a breadboard and I accelerated my knowledge of compute science by teaching myself Python operands. I hope to continue my journey of knowledge along with other peers as I have in BSE, all while keeping positive and doing what I love!
 
 # Milestone, 2
 
@@ -34,7 +26,7 @@ Hello everyone! This is my second milestone and this is what I've done since
 -Vehicle
   -Chasis: 3 additional ultrasonic sensors were mounted and connected
   -Power supply: USB-C power bank was mounted onto the robot in order to serve as a redundant and secondary power supply
--Planned: In order to reach the final milestone, the aversion logic structure needs to be added and applied. Robot's color recognition needs to be switched to yellow.
+-Planned: In order to reach the final milestone, the aversion logic structure needs to be added and applied.
 -Overview: I've been pleasantly surprised by my project so far, from immersing myself in Python operators to constructing the chassis myself, I've learned a lot about keeping things in a tide manner as to avoid electrical and mechanical issues.
 
 # Milestone, 1
