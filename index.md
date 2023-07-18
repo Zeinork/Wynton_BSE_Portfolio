@@ -1,5 +1,5 @@
 # BSE Human-Directed Rolling Machine
-theme: jekyll-theme-slate
+theme: Jekyll-theme-slate
 The device outlined below is essentially a rover that is directed with an object of color, it will autonomously search its immediate surroundings to a directed color and then move away from it. Its primary directed function is aversion, in addition to recognizing a certain color and backing away, the machine also reacts to proximity stimuli by pinpointing the trigger site and responding accordingly. Along the process of creation, I was able to learn a lot about small-scale prototype electronics. With the utility of the Raspberry pi, it was quite easy to jumpstart what was an empty chassis to a moving rover. The biggest difficulty, which was overcome by the example of one of my BSE peers, was bridging the gap between using the camera to recognize colors and creating outputs that then could be used to direct the machine's movements.
 
 You should comment out all portions of your portfolio that you have not completed yet, as well as any instructions:
