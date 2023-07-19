@@ -42,7 +42,6 @@ Hello everyone! This is my first milestone and this is what I've done so far:
   -Chasis: Wheels, motors, motor controllers, battery holder, and power switch assembled together
 
 # Schematics 
-![Headstone Image](Swanky Curcan.pdf)
 ![Headstone Image](Swanky Curcan.png)
 
 Note, in the picture of the circuit, an Arduino UNO serves as a placeholder for a Raspberry Pi. The smaller breadboard is a placeholder for an L9110 motor controller, and an Arducam (not shown) is not connected.
