@@ -7,8 +7,9 @@ The device outlined below is essentially a rover that is directed with an object
 | Wynton Z | Eaglecrest HS | Aerospace Engineering | Incoming Senior
 
 **First picture that was taken on the Arducam.**
-
-![Headstone Image](image.jpg)
+<div align="center">
+<iframe width="560" height="315" src="image.jpg">
+</div>
   
 # Milestone, Final
 <div align="center">
@@ -352,18 +353,13 @@ GPIO.cleanup() #free all the GPIO pins
 
 | **Part** | **Note** | **Price** | **Link** |
 |:--:|:--:|:--:|:--:|
-| Raspberry Pi | Onboard computer, the "brains" of the robot | 35$ | <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"> Link </a> |
-| LS9110 Dual-Channel Motor Controller | Speed and directional wheel director | 1$ | <a href="https://www.elecrow.com/l9110-dualchannel-hbridge-motor-driver-module-12v-800ma-p-826.html"> Link </a> |
-| HC-SR04 Ultrasonic Sensors | Proximity localization | 10$ | <a href="https://www.amazon.com/HiLetgo-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B00E87VXH0/ref=sr_1_6?keywords=hc-sr04&s=industrial&sr=1-6"> Link </a> |
-| Assorted Jumper Wires | Power supply management and overall connections | 7$ | <a href="https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?keywords=jumper+wires&s=industrial&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Link </a> |
-| Raspberry Pi camera | Image recognition | 10$ | <a href="https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_3?keywords=raspberry+pi+camera&sr=8-3"> Link </a> |
-| Breadboards | Used in conjunction with jumper wires, breadboards are used to streamline power supplication and connections | $10 | <a href="https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_5?keywords=breadboards&sr=8-5"> Link </a> |
+| Raspberry Pi | Onboard computer, the "brains" of the robot | 35$ | <a href="https://www.raspberrypi.com/products/raspberry-pi-4-model-b/"> RaspberryPi </a> |
+| LS9110 Dual-Channel Motor Controller | Speed and directional wheel director | 1$ | <a href="https://www.elecrow.com/l9110-dualchannel-hbridge-motor-driver-module-12v-800ma-p-826.html"> Elecrow </a> |
+| HC-SR04 Ultrasonic Sensors | Proximity localization | 10$ | <a href="https://www.amazon.com/HiLetgo-HC-SR04-Ultrasonic-Distance-MEGA2560/dp/B00E87VXH0/ref=sr_1_6?keywords=hc-sr04&s=industrial&sr=1-6"> Amazon </a> |
+| Assorted Jumper Wires | Power supply management and overall connections | 7$ | <a href="https://www.amazon.com/EDGELEC-Breadboard-Optional-Assorted-Multicolored/dp/B07GD2BWPY/ref=sr_1_1_sspa?keywords=jumper+wires&s=industrial&sr=1-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1"> Amazon </a> |
+| Raspberry Pi camera | Image recognition | 10$ | <a href="https://www.amazon.com/Arducam-Megapixels-Sensor-OV5647-Raspberry/dp/B012V1HEP4/ref=sr_1_3?keywords=raspberry+pi+camera&sr=8-3"> Amazon </a> |
+| Breadboards | Used in conjunction with jumper wires, breadboards are used to streamline power supplication and connections | $10 | <a href="https://www.amazon.com/Breadboards-Solderless-Breadboard-Distribution-Connecting/dp/B07DL13RZH/ref=sr_1_5?keywords=breadboards&sr=8-5"> Amazon </a> |
 | Smart Car Kit | Chasis, wheels, and overall body of the project | 14$ | <a href="https://www.amazon.com/Smart-Chassis-Motors-Encoder-Battery/dp/B01LXY7CM3/ref=sr_1_2?keywords=smart+car+chassis&sr=8-2"> Link </a> |
 | Power Bank | Redundant and secondary power source  | 17$| <a href="https://www.amazon.com/EnergyQC-Portable-Ultra-Compact-Compatible-More-Black/dp/B09Z6T7FQ8/ref=sr_1_5?keywords=energy+qc&sr=8-5"> Link </a> |
 
-# Other Resources/Examples
-One of the best parts about Github is that you can view how other people set up their own work. Here are some past BSE portfolios that are awesome examples. You can view how they set up their portfolio, and you can view their index.md files to understand how they implemented different portfolio components.
-- [Example 1](https://projects.bluestampengineering.com/student-projects/winston-l/)
-- [Example 2](https://komeed.github.io/Omeed-BSE-Portfolio/)
-- [Example 3](https://arneshkumar.github.io/arneshbluestamp/)
 
