@@ -8,7 +8,7 @@ The device outlined below is essentially a rover that is directed with an object
 
 **First picture that was taken on the Arducam.**
 <div align="center">
-<iframe width="560" height="315" src="image.jpg">
+<iframe width="560" height="315" src="12312.jpg">
 </div>
   
 # Milestone, Final
