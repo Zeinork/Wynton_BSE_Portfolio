@@ -46,6 +46,7 @@ Hello everyone! This is my first milestone and this is what I've done so far:
 ![Headstone Image](Swanky Curcan.png)
 
 Note, in the picture of the circuit, an Arduino UNO serves as a placeholder for a Raspberry Pi. The smaller breadboard is a placeholder for an L9110 motor controller, and an Arducam (not shown) is not connected.
+-Zhang, Wynton. "BSE Human-Directed Rolling Machine", 2023
 
 # Code
 Here's where you'll put your code. The syntax below places it into a block of code. Follow the guide [here]([url](https://www.markdownguide.org/extended-syntax/)) to learn how to customize it to your project needs. 
